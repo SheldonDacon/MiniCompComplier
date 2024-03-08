@@ -4,7 +4,7 @@
 
 ## Overview
 
-The Lever Compiler is designed to transform high-level code written in a BASIC-like language into equivalent C code, facilitating easy execution on a variety of platforms. Lever introduces simplicity and ease of use while generating efficient and readable C code.
+ Compiler is designed to transform high-level code written in a BASIC-like language into equivalent C code, facilitating easy execution on a variety of platforms.
 
 ## Features
 
