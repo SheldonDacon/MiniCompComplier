@@ -41,7 +41,7 @@ The Lever Compiler is designed to transform high-level code written in a BASIC-l
     ```
 
 ## Usage
-
+```
 An example BASIC snippet code that can be compiled:
 
 INPUT nums
@@ -56,4 +56,4 @@ WHILE nums > 0 REPEAT
     LET b = c
     LET nums = nums - 1
 ENDWHILE
-
+```
