@@ -18,7 +18,7 @@ The Lever Compiler is designed to transform high-level code written in a BASIC-l
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.9
 
 ### Installation
 
